@@ -1,4 +1,3 @@
-from distutils.filelist import findall
 import xml.etree.ElementTree as ET
 
 from db import execute
